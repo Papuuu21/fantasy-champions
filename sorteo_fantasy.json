@@ -1,0 +1,558 @@
+{
+  "grupos": {
+    "A": [
+      "Fale",
+      "Armada",
+      "Gonzo",
+      "Tony",
+      "Kero",
+      "Papu"
+    ],
+    "B": [
+      "Palop",
+      "Kike",
+      "Ruso",
+      "Lope",
+      "Coquina",
+      "Puche"
+    ]
+  },
+  "numeros": {
+    "orden": {
+      "A": [
+        "Kero",
+        "Tony",
+        "Fale",
+        "Armada",
+        "Gonzo",
+        "Papu"
+      ],
+      "B": [
+        "Lope",
+        "Palop",
+        "Ruso",
+        "Kike",
+        "Puche",
+        "Coquina"
+      ]
+    },
+    "enfrentamientos": {
+      "A": [
+        [
+          "Kero",
+          "Tony"
+        ],
+        [
+          "Kero",
+          "Fale"
+        ],
+        [
+          "Kero",
+          "Armada"
+        ],
+        [
+          "Kero",
+          "Gonzo"
+        ],
+        [
+          "Kero",
+          "Papu"
+        ],
+        [
+          "Tony",
+          "Fale"
+        ],
+        [
+          "Tony",
+          "Armada"
+        ],
+        [
+          "Tony",
+          "Gonzo"
+        ],
+        [
+          "Tony",
+          "Papu"
+        ],
+        [
+          "Fale",
+          "Armada"
+        ],
+        [
+          "Fale",
+          "Gonzo"
+        ],
+        [
+          "Fale",
+          "Papu"
+        ],
+        [
+          "Armada",
+          "Gonzo"
+        ],
+        [
+          "Armada",
+          "Papu"
+        ],
+        [
+          "Gonzo",
+          "Papu"
+        ]
+      ],
+      "B": [
+        [
+          "Lope",
+          "Palop"
+        ],
+        [
+          "Lope",
+          "Ruso"
+        ],
+        [
+          "Lope",
+          "Kike"
+        ],
+        [
+          "Lope",
+          "Puche"
+        ],
+        [
+          "Lope",
+          "Coquina"
+        ],
+        [
+          "Palop",
+          "Ruso"
+        ],
+        [
+          "Palop",
+          "Kike"
+        ],
+        [
+          "Palop",
+          "Puche"
+        ],
+        [
+          "Palop",
+          "Coquina"
+        ],
+        [
+          "Ruso",
+          "Kike"
+        ],
+        [
+          "Ruso",
+          "Puche"
+        ],
+        [
+          "Ruso",
+          "Coquina"
+        ],
+        [
+          "Kike",
+          "Puche"
+        ],
+        [
+          "Kike",
+          "Coquina"
+        ],
+        [
+          "Puche",
+          "Coquina"
+        ]
+      ]
+    }
+  },
+  "calendario": [
+    {
+      "cl": 1,
+      "liga": 8,
+      "fase": "ida",
+      "A": {
+        "bola": "I3",
+        "partidos": [
+          [
+            "Papu",
+            "Fale"
+          ],
+          [
+            "Armada",
+            "Tony"
+          ],
+          [
+            "Gonzo",
+            "Kero"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "I5",
+        "partidos": [
+          [
+            "Coquina",
+            "Puche"
+          ],
+          [
+            "Lope",
+            "Kike"
+          ],
+          [
+            "Palop",
+            "Ruso"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 2,
+      "liga": 9,
+      "fase": "ida",
+      "A": {
+        "bola": "I4",
+        "partidos": [
+          [
+            "Armada",
+            "Papu"
+          ],
+          [
+            "Gonzo",
+            "Fale"
+          ],
+          [
+            "Kero",
+            "Tony"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "I4",
+        "partidos": [
+          [
+            "Kike",
+            "Coquina"
+          ],
+          [
+            "Puche",
+            "Ruso"
+          ],
+          [
+            "Lope",
+            "Palop"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 3,
+      "liga": 10,
+      "fase": "ida",
+      "A": {
+        "bola": "I2",
+        "partidos": [
+          [
+            "Tony",
+            "Papu"
+          ],
+          [
+            "Fale",
+            "Kero"
+          ],
+          [
+            "Armada",
+            "Gonzo"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "I1",
+        "partidos": [
+          [
+            "Coquina",
+            "Lope"
+          ],
+          [
+            "Palop",
+            "Puche"
+          ],
+          [
+            "Ruso",
+            "Kike"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 4,
+      "liga": 11,
+      "fase": "ida",
+      "A": {
+        "bola": "I1",
+        "partidos": [
+          [
+            "Papu",
+            "Kero"
+          ],
+          [
+            "Tony",
+            "Gonzo"
+          ],
+          [
+            "Fale",
+            "Armada"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "I2",
+        "partidos": [
+          [
+            "Palop",
+            "Coquina"
+          ],
+          [
+            "Ruso",
+            "Lope"
+          ],
+          [
+            "Kike",
+            "Puche"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 5,
+      "liga": 12,
+      "fase": "ida",
+      "A": {
+        "bola": "I5",
+        "partidos": [
+          [
+            "Papu",
+            "Gonzo"
+          ],
+          [
+            "Kero",
+            "Armada"
+          ],
+          [
+            "Tony",
+            "Fale"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "I3",
+        "partidos": [
+          [
+            "Coquina",
+            "Ruso"
+          ],
+          [
+            "Kike",
+            "Palop"
+          ],
+          [
+            "Puche",
+            "Lope"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 6,
+      "liga": 13,
+      "fase": "vuelta",
+      "A": {
+        "bola": "V5",
+        "partidos": [
+          [
+            "Gonzo",
+            "Papu"
+          ],
+          [
+            "Armada",
+            "Kero"
+          ],
+          [
+            "Fale",
+            "Tony"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "V3",
+        "partidos": [
+          [
+            "Ruso",
+            "Coquina"
+          ],
+          [
+            "Palop",
+            "Kike"
+          ],
+          [
+            "Lope",
+            "Puche"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 7,
+      "liga": 14,
+      "fase": "vuelta",
+      "A": {
+        "bola": "V4",
+        "partidos": [
+          [
+            "Papu",
+            "Armada"
+          ],
+          [
+            "Fale",
+            "Gonzo"
+          ],
+          [
+            "Tony",
+            "Kero"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "V4",
+        "partidos": [
+          [
+            "Coquina",
+            "Kike"
+          ],
+          [
+            "Ruso",
+            "Puche"
+          ],
+          [
+            "Palop",
+            "Lope"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 8,
+      "liga": 15,
+      "fase": "vuelta",
+      "A": {
+        "bola": "V2",
+        "partidos": [
+          [
+            "Papu",
+            "Tony"
+          ],
+          [
+            "Kero",
+            "Fale"
+          ],
+          [
+            "Gonzo",
+            "Armada"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "V5",
+        "partidos": [
+          [
+            "Puche",
+            "Coquina"
+          ],
+          [
+            "Kike",
+            "Lope"
+          ],
+          [
+            "Ruso",
+            "Palop"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 9,
+      "liga": 16,
+      "fase": "vuelta",
+      "A": {
+        "bola": "V3",
+        "partidos": [
+          [
+            "Fale",
+            "Papu"
+          ],
+          [
+            "Tony",
+            "Armada"
+          ],
+          [
+            "Kero",
+            "Gonzo"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "V2",
+        "partidos": [
+          [
+            "Coquina",
+            "Palop"
+          ],
+          [
+            "Lope",
+            "Ruso"
+          ],
+          [
+            "Puche",
+            "Kike"
+          ]
+        ]
+      }
+    },
+    {
+      "cl": 10,
+      "liga": 17,
+      "fase": "vuelta",
+      "A": {
+        "bola": "V1",
+        "partidos": [
+          [
+            "Kero",
+            "Papu"
+          ],
+          [
+            "Gonzo",
+            "Tony"
+          ],
+          [
+            "Armada",
+            "Fale"
+          ]
+        ]
+      },
+      "B": {
+        "bola": "V1",
+        "partidos": [
+          [
+            "Lope",
+            "Coquina"
+          ],
+          [
+            "Puche",
+            "Palop"
+          ],
+          [
+            "Kike",
+            "Ruso"
+          ]
+        ]
+      }
+    }
+  ]
+}

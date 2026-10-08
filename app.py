@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Fantasy Champions", page_icon="🏆", layout="wide")
+st.set_page_config(page_title="MISTER CHAMPIONS", page_icon="🏆", layout="wide")
 
 # ══════════════════════════════════════════════════════════════
 #  RESULTADOS REALES (puntos fantasy)

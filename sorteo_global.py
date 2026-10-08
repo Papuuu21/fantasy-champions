@@ -10,8 +10,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 #  Ejecuta este script y se abrirá el navegador solo.
 # ─────────────────────────────────────────────────────────
 
-PARTICIPANTES = ["Palop", "Fale", "Lope", "Tony", "Ruso", "Kero",
-                 "Coquina", "Papu", "Kike", "Gonzo", "Puche", "Armada"]
+PARTICIPANTES = ["Palop", "Fale", "Lope", "Tony", "Ruso", "Kero","Coquina", "Papu", "Kike", "Gonzo", "Puche", "Armada"]
 
 JORNADAS_LIGA = list(range(8, 18))   # J1 Champions = J8 Liga ... J10 = J17
 PUERTO = 8000
